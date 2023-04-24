@@ -7,3 +7,16 @@ h3, p{
 p{
     text-decoration: underline;
 }
+.add {
+    width: 50px;
+    height: 20px;
+    border: none;
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+}
+.me:hover{
+    width: 80px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

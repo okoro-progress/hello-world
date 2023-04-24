@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+h3, p{
+    font-weight: bold;
+}
+p{
+    text-decoration: underline;
+}
